@@ -1,0 +1,4 @@
+development:
+  COMUNES_DATABASE_HOST: 'localhost'
+  COMUNES_DATABASE_USER: ''
+  COMUNES_DATABASE_PASSWORD: ''
